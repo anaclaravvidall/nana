@@ -1,5 +1,5 @@
-#ola sou Ana
-- estudante do colégio estadual luiz sebastião baldo quase estudante da IFPR
-- Gosto de volêi
-- Dançar
-- Pintar
+Meu nome é Ana Clara
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
